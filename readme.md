@@ -1,5 +1,5 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
-# Nome do projeto
+# Otimização de Lucro de Novos Produtos sob Incerteza
 
 #### Aluno: [Victor Soledade Moraes Amaral Neto](https://github.com/link_do_github)
 #### Orientador1: [Ana Carolina Abreu](https://github.com/link_do_github).
@@ -46,7 +46,7 @@ Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis
 
 ---
 
-Matrícula: 123.456.789
+Matrícula: 211.100.463
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
