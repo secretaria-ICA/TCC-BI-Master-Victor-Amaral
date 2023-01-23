@@ -1,9 +1,9 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 # Nome do projeto
 
-#### Aluno: [Nome](https://github.com/link_do_github)
-#### Orientadora: [Nome Sobrenome](https://github.com/link_do_github).
-#### Co-orientador(/a/es/as): [Nome Sobrenome](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
+#### Aluno: [Victor Soledade Moraes Amaral Neto](https://github.com/link_do_github)
+#### Orientador1: [Ana Carolina](https://github.com/link_do_github).
+#### Orientador2: [Felipe](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
 
 ---
 
