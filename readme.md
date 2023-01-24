@@ -31,16 +31,30 @@ Levando em conta a taxa de mortalidade de novos negócios e seu impacto nos dive
   - Qual é a lucratividade esperada do projeto?
   - Quais são os riscos de perda e qual é a probabilidade de que ocorra?
 
+Embora se reconheça a importância da sensibilidade do especialista, as técnicas quantitativas possibilitam melhorar suas decisões, evitando eventualmente prejuízos ou lucros sub-ótimos.
+
 Para alcançar estas intenções, lançou-se mão de matérias pertencentes às áreas de Microeconomia, Estatística, Inteligência Artificial (Machine Learning) e Marketing. Elas foram aplicadas a uma pesquisa de mercado feita com cinquenta respondentes em que se procurou medir a aceitação de um e-book e, mais importante, medir o valor máximo que cada um deles estaria disposto a pagar.
 
-Como tentativa de democratizar a aplicação da abordagem deste trabalho a pequenos empreendedores, toda a modelagem foi desenvolvida em Excel, tornando desnecessária qualquer programação, mas tão somente conhecimento avançado nesta ferramenta.
+Como tentativa de democratizar a aplicação da abordagem deste trabalho para pequenos empreendedores, toda a modelagem foi desenvolvida em Excel, tornando desnecessária qualquer programação, mas tão somente conhecimento avançado nesta ferramenta.
 
 
 ### 2. Modelagem
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+A modelagem do objeto deste trabalho de conclusão, como mencionado, foi integralmente feita em Excel. Seguiu as etapas abaixo:
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+  - Análise exploratória da base de dados (cinquenta respostas das pesquisa);
+  
+  - Normalização das variáveis numérias por Z-Score.
+
+  - Segmentaçao de mercado pora determinação de grupos de respondentes utilizando o algoritmo KNN. Nesta estapa aplicou-se o algoritmo genético do Solver/Evolutionary para definir os integrantes iniciais dos grupos de forma a minimizar a distância total entre todos os integrantes e seu vizinho mais próximo. Como as variáveis escolhidas para definir os grupos resultantes foram categóricas e numéricas, para as primeiras utilizou-se a distância de Hamming e para as demais (normalizadas) a distância euclidiana. A distância total entre os integrantes e seu vizinho mais próximo foi calculada pela soma destas duas distâncias. Procurou-se selecionar um grupo correspondente ao segmento de mercado com propensão a pagar preços mais altos;
+ 
+  - Cálculo da curva de demanda em relação ao preço utilizando Regressão Linear aplicada ao grupo identificado acima;
+  
+  - Definição da função lucro decorrente da curva de demanda conjugada ao custos variáveis e fixos;
+  
+  - Aplicação de Simulação de Monte Carlo com Otimização para definição do preço ótimo que maximiza a média dos lucros esperados;
+  
+  - Expandir a abordagem da Simulação de Monte Carlo com Otimização para segmentação de preços, ou seja, cobrar preços diferentes para o mesmo produto, levemente modificado, de forma a capturar os menos e os mais sensíveis ao preço dentro do segmento.
 
 ### 3. Resultados
 
