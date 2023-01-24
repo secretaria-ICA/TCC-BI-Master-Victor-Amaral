@@ -22,9 +22,19 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### 1. Introdução
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+Este trabalho tratou da continuação da abordagem feita na disciplina de OP em que buscou-se aplicar ferramentas de otimização e de técnicas de decisão sob incerteza para potencializar o retorno do lançamento de um novo produto. As técnicas aplicadas na disciplina de OP, por si, já indicaram o valor de modelagens matemáticas no auxílio dos decisores, mais especificamente neste caso dos empreendedores, para dar mais segurança a seus projetos.
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+Levando em conta a taxa de mortalidade de novos negócios e seu impacto nos diversos envolvidos, procurou-se demonstrar aqui como algoritmos de Machine Learning e de Otimização podem nortear decisões complexas de mercado, tais como:
+
+  - Qual ou quais preços devem ser cobrados pelo produto?
+  - Qual segmento de mercado deve ser acionado?
+  - Qual é a lucratividade esperada do projeto?
+  - Quais são os riscos de perda e qual é a probabilidade de que ocorra?
+
+Para alcançar estas intenções, lançou-se mão de matérias pertencentes às áreas de Microeconomia, Estatística, Inteligência Artificial (Machine Learning) e Marketing. Elas foram aplicadas a uma pesquisa de mercado feita com cinquenta respondentes em que se procurou medir a aceitação de um e-book e, mais importante, medir o valor máximo que cada um deles estaria disposto a pagar.
+
+Como tentativa de democratizar a aplicação da abordagem deste trabalho a pequenos empreendedores, toda a modelagem foi desenvolvida em Excel, tornando desnecessária qualquer programação, mas tão somente conhecimento avançado nesta ferramenta.
+
 
 ### 2. Modelagem
 
