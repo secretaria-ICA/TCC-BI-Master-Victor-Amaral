@@ -31,7 +31,7 @@ Levando em conta a taxa de mortalidade de novos negócios e seu impacto nos dive
   - Qual é a lucratividade esperada do projeto?
   - Quais são os riscos de perda e qual é a probabilidade de que ocorra?
 
-Embora se reconheça a importância da sensibilidade do especialista, as técnicas quantitativas possibilitam melhorar suas decisões, evitando eventualmente prejuízos ou lucros sub-ótimos.
+Embora se reconheça a importância da sensibilidade do especialista, as técnicas quantitativas possibilitam melhorar suas decisões, evitando eventualmente prejuízos ou lucros sub ótimos.
 
 Para alcançar estas intenções, lançou-se mão de matérias pertencentes às áreas de Microeconomia, Estatística, Inteligência Artificial (Machine Learning) e Marketing. Elas foram aplicadas a uma pesquisa de mercado feita com cinquenta respondentes em que se procurou medir a aceitação de um e-book e, mais importante, medir o valor máximo que cada um deles estaria disposto a pagar.
 
@@ -42,19 +42,20 @@ Como tentativa de democratizar a aplicação da abordagem deste trabalho para pe
 
 A modelagem do objeto deste trabalho de conclusão, como mencionado, foi integralmente feita em Excel. Seguiu as etapas abaixo:
 
-  - Análise exploratória da base de dados (cinquenta respostas das pesquisa);
+  - Análise exploratória da base de dados (cinquenta respostas da pesquisa);
   
-  - Normalização das variáveis numérias por Z-Score.
+  - Normalização das variáveis numéricas por Z-Score.
 
-  - Segmentaçao de mercado pora determinação de grupos de respondentes utilizando o algoritmo KNN. Nesta estapa aplicou-se o algoritmo genético do Solver/Evolutionary para definir os integrantes iniciais dos grupos de forma a minimizar a distância total entre todos os integrantes e seu vizinho mais próximo. Como as variáveis escolhidas para definir os grupos resultantes foram categóricas e numéricas, para as primeiras utilizou-se a distância de Hamming e para as demais (normalizadas) a distância euclidiana. A distância total entre os integrantes e seu vizinho mais próximo foi calculada pela soma destas duas distâncias. Procurou-se selecionar um grupo correspondente ao segmento de mercado com propensão a pagar preços mais altos;
+  - Segmentação de mercado para determinação de grupos de respondentes utilizando o algoritmo KNN. Nesta etapa aplicou-se o algoritmo genético do Solver/Evolutionary para definir os integrantes iniciais dos grupos de forma a minimizar a distância total entre todos os integrantes e seu vizinho mais próximo. Como as variáveis escolhidas para definir os grupos resultantes foram categóricas e numéricas, para as primeiras utilizou-se a distância de Hamming e para as demais (normalizadas) a distância euclidiana. A distância total entre os integrantes e seu vizinho mais próximo foi calculada pela soma destas duas distâncias. Procurou-se selecionar um grupo correspondente ao segmento de mercado com propensão a pagar preços mais altos;
  
   - Cálculo da curva de demanda em relação ao preço utilizando Regressão Linear aplicada ao grupo identificado acima;
   
-  - Definição da função lucro decorrente da curva de demanda conjugada ao custos variáveis e fixos;
+  - Definição da função lucro decorrente da curva de demanda conjugada aos custos variáveis e fixos;
   
   - Aplicação de Simulação de Monte Carlo com Otimização para definição do preço ótimo que maximiza a média dos lucros esperados;
   
   - Expandir a abordagem da Simulação de Monte Carlo com Otimização para segmentação de preços, ou seja, cobrar preços diferentes para o mesmo produto, levemente modificado, de forma a capturar os menos e os mais sensíveis ao preço dentro do segmento.
+
 
 ### 3. Resultados
 
