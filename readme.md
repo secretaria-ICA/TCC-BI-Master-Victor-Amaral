@@ -43,7 +43,7 @@ Portanto, esta abordagem procurou lançar luz, através de modelagem matemática
   - 2) A prática de otimização de preços (precificação estratégica) potencializa a relação retorno/risco do produto?
   - 3) Em que medida a aplicação de otimização sob incerteza contribui para que decisões mais assertivas sejam tomadas?  
 
-Embora se reconheça a imprescindível sensibilidade do especialista, as técnicas quantitativas possibilitaram melhorar decisões, evitando eventualmente prejuízos ou na melhor das hipóteses, lucros sub ótimos.
+Embora se reconheça a imprescindível sensibilidade do especialista, as técnicas quantitativas possibilitaram melhorar decisões, minimizando a chance de haver prejuízos ou, na melhor das hipóteses, de haver lucros sub ótimos.
 
 Para alcançar estas intenções, lançou-se mão de matérias pertencentes às áreas de Microeconomia, Estatística, Machine Learning e Marketing. Elas foram aplicadas a uma pesquisa de mercado feita com cinquenta respondentes em que se procurou medir a aceitação de um e-book e, mais importante, medir o valor máximo que cada um deles estaria disposto a pagar.
 
@@ -56,17 +56,19 @@ Como tentativa de democratizar a aplicação da abordagem deste trabalho para pe
 
 A modelagem do trabalho contou com três dimensões. 1) segmentação da base de dados utilizando técnica de agrupamento, aplicando Excel/Solver/Evolutinary; 2) Cálculo das curvas de demanda da base completa e dos dois segmentos mais promissores e 3) aplicação de otimização com Simulação de Monte Carlo para definir preços ótimos e verbas de divulgação para atender aos objetivos de maximizar lucro ou minimizar riscos ou de encontrar relação ótima risco/retorno.
 
+Segmentação de Mercado
+
 Como mencionado, a modelagem foi integralmente feita em Excel. Seguiu as seguintes etapas:
 
   - Análise exploratória da base de dados (cinquenta respostas da pesquisa);
   
-  - Discretização das variáveis e contínuas e codificação de todas elas propiciando aplicar aplicar cálculo das distâncias de Hamming como base do método de agrupamento utiliando Excel/Solver;
+  - Discretização das variáveis e contínuas e codificação de todas elas propiciando aplicar cálculo das distâncias de Hamming como base do método de agrupamento utilizando Excel/Solver;
 
-  - Agrupamento dos 50 respondentes em 5 grupos considerando semelhanças sóciodemográfica e WTP, conforme abordagem de ...... ;
+  - Agrupamento dos 50 respondentes em 5 grupos considerando semelhanças sociodemográfica e WTP, conforme abordagem de ...... ;
   
   - Identificação seleção de dois grupos mais promissores resultantes da etapa anterior;
-  -
-  - Cálculo das três curvas de demanda utlizando regressão linear simples: base completa e dos dois segmentos mais promissores;
+  
+  - Cálculo das três curvas de demanda utilizando regressão linear simples: base completa e dos dois segmentos mais promissores;
   
   -  Aplicação de otimização com Simulação de Monte Carlos com 1000 cenários para definição de preços e alocações e verba de divulgação ótimos para os objetivos de maximização de lucro, minimização de riscos ou maximização da relação retorno sobre risco (desvio padrão dos lucros esperados);
   -  
