@@ -2,8 +2,8 @@
 # Aplicações de Otimização para Lançamento de Novos Produtos
 
 #### Aluno: [Victor Soledade Moraes Amaral Neto](https://github.com/link_do_github)
-#### Orientador1: [Ana Carolina Abreu](https://github.com/link_do_github).
-#### Orientador2: [Felipe Borges](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
+#### Orientador: [Ana Carolina Abreu](https://github.com/link_do_github).
+#### Co-orientador: [Felipe Borges](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
 
 ---
 
@@ -19,6 +19,15 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
     - [Nome do Trabalho 2](https://link_do_trabalho.com).
 
 ---
+
+### Resumo
+
+Este trabalho procurou dar contribuição aos empreendedores ou aos candidatos a ter um novo negócio para que melhorassem suas decisões com os objetivos de reduzir o risco ou aumentar o potencial de resultado de seus projetos aplicando algoritmos de otimização.
+As abordagens aqui aplicadas implicaram: 1) utilização de otimização por algoritmo genético para buscar em uma pesquisa de mercado com 50 respondentes possíveis segmentos de mercado que, além das características sociodemográficas, considerassem preço máximo que o indivíduo pagaria pelo produto (WTP: Willingness to Pay); 2) aplicação de Simulação de Monte Carlo com otimização para definição de preço ótimo para os segmentos de maior potencial de lucratividade identificados na etapa anterior. A ferramenta utilizada foi Excel/Solver. Desta forma, espera-se que este trabalho possa ter utilidade mais abrangente tendo em vista o alcance de uso deste software, que está ao alcance de qualquer interessado nestas aplicações.
+Nesta abordagem pode-se confirmar que a aplicação das técnicas de otimização propiciou encontrar segmentos distintos na base de dados e propiciou também contribuir para com as decisões de precificação e alocação de verba de divulgação para atingir, dependendo da intenção do empreendedor, diferentes objetivos: otimização do lucro, minimização do risco ou ainda melhor relação retorno risco. A aplicação de modelos de otimização resultou em estabelecimento dos 3 parâmetros de decisão (Escolha dos segmentos de mercado, definição dos preços para cada segmento e alocação de verba de divulgação a cada segmento escolhido) materialmente melhores do que modo prevalente no mercado de lançar os produtos para diversos perfis de consumidores ao preço similar ao de produtos similares.
+
+
+
 
 ### 1. Introdução
 
