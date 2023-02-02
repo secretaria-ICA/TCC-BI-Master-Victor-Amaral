@@ -78,10 +78,16 @@ A aplicação da metodologia destre trablho evidenciou a utilidade das aplicaç�
 
 O software Excel e sua aplicação Solver mostraram-se suficientemente robustos para os objetivos de resolução de análise de agrupamentos e de otimização sob incerteza.
 
-Como se vê na tabeia abaixo, a modelagem aqui proposta possibilitou armar o decisor com informações valiosas, auxiliando a escolha de opções de prativar preço de mercado, acionar um ou dois segmentos etc.
+Como se vê na tabeia abaixo, a modelagem aqui proposta possibilitou armar o decisor com informações valiosas, auxiliando-o com a escolha de opções como de praticar preço de mercado, acionar um ou dois segmentos etc.
 
 
-![alt text](https://github.com/VictorAmaralNeto/TCC-BI-Master-Victor-Amaral/blob/main/Imagem2.jpg)
+![alt text](https://github.com/VictorAmaralNeto/TCC-BI-Master-Victor-Amaral/blob/main/Imagem4.jpg)
+
+O cenário 1, por exemplo, apesar de ser prática recorrente entre iniciantes em negócios, ou seja, simplesmente atribuindo o valor médio de e-books vendidos pela internet e divulgando indiscriminadamente para consumidores potenciais, mostrou-se a pior opção do experimento.
+
+O cenário 2 é igual ao primieiro, porém praticando preço otimizado. Considerando a curva de demanda de todos os respondentes da base de dados, caso o empreendedor cobrasse R$ 70,00 ao invés de R$ 50,00, o lucro mensal final tenderia a aumentar 34%.
+
+
 
 
 
