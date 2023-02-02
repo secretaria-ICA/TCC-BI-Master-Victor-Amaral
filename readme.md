@@ -15,7 +15,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 - Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
     - [Análise de Agrupamentos com Uso do Excel - Oliveira (2015)](https://repositorio.ufmg.br/bitstream/1843/BUBD-A3QEUR/1/monografia_davidson_vers_o_final.pdf).
     - [The Impact of Price Segmentation based on Customer Characteristics, Product Bundle or Product Features on Price Fairness Perceptions - Nazari e Sheikholeslami-2021](https://jimm.journals.umz.ac.ir/article_3367_e408bef6742b349b39977526f3746607.pdf).
-    - [AOptimal pricing and quantity of products with two offerings - Khouja e Robbins (2003)](http://gauss.stat.su.se/gu/sg/2012VT/deluppgift23.pdf).
+    - [A optimal pricing and quantity of products with two offerings - Khouja e Robbins (2003)](http://gauss.stat.su.se/gu/sg/2012VT/deluppgift23.pdf).
     - [Application of the Price Discrimination in Marketing - Porcheva (2013)](https://www.researchgate.net/profile/Tatyana-Netseva-Porcheva/publication/341452650_Application_of_the_Price_Discrimination_in_Marketing/links/5ec2311d92851c11a87043ce/Application-of-the-Price-Discrimination-in-Marketing.pdf).
   
 ---
@@ -74,9 +74,16 @@ Como mencionado, a modelagem foi integralmente feita em Excel. Seguiu as seguint
  
 ### 3. Resultados
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+A aplicação da metodologia destre trablho evidenciou a utilidade das aplicação de modelagem quantitativao - otimização e simulação de monte carlo - para com o processo decisório de empreendedor, mais especificamente, na desafiante tarefa de lançar um novo produto.
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+O software Excel e sua aplicação Solver mostraram-se suficientemente robustos para os objetivos de resolução de análise de agrupamentos e de otimização sob incerteza.
+
+Como se vê na tabeia abaixo, a modelagem aqui proposta possibilitou armar o decisor com informações valiosas, auxiliando a escolha de opções de prativar preço de mercado, acionar um ou dois segmentos etc.
+
+
+
+
+
 
 ### 4. Conclusões
 
