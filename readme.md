@@ -14,8 +14,10 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
     - [Análise de Agrupamentos com Uso do Excel - Oliveira (2015)](https://repositorio.ufmg.br/bitstream/1843/BUBD-A3QEUR/1/monografia_davidson_vers_o_final.pdf).
-    - [Nome do Trabalho 2](https://link_do_trabalho.com).
-
+    - [The Impact of Price Segmentation based on Customer Characteristics, Product Bundle or Product Features on Price Fairness Perceptions - Nazari e Sheikholeslami-2021](https://jimm.journals.umz.ac.ir/article_3367_e408bef6742b349b39977526f3746607.pdf).
+    - [AOptimal pricing and quantity of products with two offerings - Khouja e Robbins (2003)](http://gauss.stat.su.se/gu/sg/2012VT/deluppgift23.pdf).
+    - [Application of the Price Discrimination in Marketing - Porcheva (2013)](https://www.researchgate.net/profile/Tatyana-Netseva-Porcheva/publication/341452650_Application_of_the_Price_Discrimination_in_Marketing/links/5ec2311d92851c11a87043ce/Application-of-the-Price-Discrimination-in-Marketing.pdf).
+  
 ---
 
 ### Resumo
@@ -25,8 +27,6 @@ As abordagens aqui aplicadas implicaram: 1) utilização de otimização por alg
 Nesta abordagem pode-se confirmar que a aplicação das técnicas de otimização propiciou encontrar segmentos distintos na base de dados e propiciou também contribuir para com as decisões de precificação e alocação de verba de divulgação para atingir, dependendo da intenção do empreendedor, diferentes objetivos: otimização do lucro, minimização do risco ou ainda melhor relação retorno risco. A aplicação de modelos de otimização resultou em estabelecimento dos 3 parâmetros de decisão (Escolha dos segmentos de mercado, definição dos preços para cada segmento e alocação de verba de divulgação a cada segmento escolhido) materialmente melhores do que modo prevalente no mercado de lançar os produtos para diversos perfis de consumidores ao preço similar ao de produtos similares.
 
 ### 1. Introdução
-
-Este trabalho tratou de aplicações de ferramentas de otimização e de técnicas de decisão sob incerteza para potencializar a relação retorno/risco do lançamento de um novo produto.
 
 O empreendedorismo, além de seu reconhecido valor para a Economia, vem se tornando necessidade de muitos indivíduos que não conseguem oportunidades no mercado formal de trabalho. Por outro lado, a taxa de insucesso dos novos negócios pode impactar materialmente todos os envolvidos (proprietário, empregdos, fornecedores entre outros) Neste contexto, utilizando pesquisa de mercado de novo e-book, procurou-se demonstrar como algoritmos de otimização conjugados com técnicas de decisão sob inceteza podem melhorar decisões complexas de mercado, tais como:
 
