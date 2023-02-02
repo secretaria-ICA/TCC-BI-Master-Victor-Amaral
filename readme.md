@@ -13,7 +13,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 - [Link para o código](https://github.com/VictorAmaralNeto/TCC-BI-Master-Victor-Amaral/blob/main/Arquivo%20da%20Modelagem.xlsm)
 
 - Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
-    - [Nome do Trabalho 1](https://link_do_trabalho.com).
+    - [Análise de Agrupamentos com Uso do Excel - Oliveira (2015)](https://repositorio.ufmg.br/bitstream/1843/BUBD-A3QEUR/1/monografia_davidson_vers_o_final.pdf).
     - [Nome do Trabalho 2](https://link_do_trabalho.com).
 
 ---
@@ -35,19 +35,19 @@ O empreendedorismo, além de seu reconhecido valor para a Economia, vem se torna
   - Qual é a lucratividade esperada do projeto?
   - Quais são os riscos de perda e qual é a probabilidade de que ocorra?
 
-Portanto, esta abordagem procurou lançar luz, através de modelagem matemática, a tês perguntas principais:
+Portanto, esta abordagem procurou lançar luz, através de modelagem matemática, em tês perguntas principais:
 
   - 1) A segumentação de mercado com decorrente possibilidade de cobrar preços diferentes para cada um deles potencializa a relação retorno/risco do produto?
   - 2) A prática de otimização de preços (precificação estratégica) potencializa a relação retorno/risco do produto?
   - 3) Em que medida a aplicação de otimização sob incerteza contribui para que decisões mais assertivas sejam tomadas?  
 
-Embora se reconheça a imprescindível sensibilidade do especialista, as técnicas quantitativas possibilitaram melhorar decisões, minimizando a chance de haver prejuízos ou, na melhor das hipóteses, de haver lucros sub ótimos.
-
 Para alcançar estas intenções, lançou-se mão de matérias pertencentes às áreas de Microeconomia, Estatística, Machine Learning e Marketing. Elas foram aplicadas a uma pesquisa de mercado feita com cinquenta respondentes em que se procurou medir a aceitação de um e-book e, mais importante, medir o valor máximo que cada um deles estaria disposto a pagar.
 
-Embora haja obvias limitações nesta abordagem (base reduzida, base desbalanceada e vieses de conveniência social), foi possível, apesar disso, verificar o valor das modelagens matemáticas com complemento à experiência e intuição humanas.
+Embora se reconheça a imprescindível necessidade de se contar com a sensibilidade do especialista, as técnicas quantitativas possibilitaram melhorar decisões, minimizando a chance de haver prejuízos ou, na melhor das hipóteses, de haver lucros sub ótimos em um projeto de lançamento de um novo produto.
 
-Como tentativa de democratizar a aplicação da abordagem deste trabalho para pequenos empreendedores, toda a modelagem foi desenvolvida em Excel, tornando desnecessária qualquer programação, mas tão somente conhecimento avançado nesta ferramenta.
+Apesar das limitações nesta abordagem (base reduzida, base desbalanceada e vieses de conveniência social), foi possível verificar o valor das modelagens matemáticas com complemento à experiência e intuição humanas.
+
+Como tentativa de democratizar a aplicação da abordagem deste trabalho para pequenos empreendedores, toda a modelagem foi desenvolvida em Excel, tornando desnecessária qualquer programação em outras ferramentas, mas tão somente conhecimento avançado nesta software.
 
 
 ### 2. Modelagem
@@ -58,11 +58,11 @@ Segmentação de Mercado
 
 Como mencionado, a modelagem foi integralmente feita em Excel. Seguiu as seguintes etapas:
 
-  - Análise exploratória da base de dados (cinquenta respostas da pesquisa);
+  - Análise exploratória da base de dados (50 respostas da pesquisa);
   
   - Discretização das variáveis e contínuas e codificação de todas elas propiciando aplicar cálculo das distâncias de Hamming como base do método de agrupamento utilizando Excel/Solver;
 
-  - Agrupamento dos 50 respondentes em 5 grupos considerando semelhanças sociodemográfica e WTP, conforme abordagem de ...... ;
+  - Agrupamento dos 50 respondentes em 5 grupos considerando semelhanças sociodemográfica e WTP, conforme abordagem de Oliveira (2015) ;
   
   - Identificação seleção de dois grupos mais promissores resultantes da etapa anterior;
   
@@ -72,18 +72,6 @@ Como mencionado, a modelagem foi integralmente feita em Excel. Seguiu as seguint
   -  
   -  Elaboração de experimento com 8 possibilidades de decisão decorrentes de dois objetivos diferentes de otimização diferentes combinados com opções de acionar todos os consumidores, consumidores do segmento 1, consumidores do segmento 2, ambos os segmentos com diferentes preços.
  
-
-  - Segmentação de mercado para determinação de grupos de respondentes utilizando o algoritmo KNN. Nesta etapa aplicou-se o algoritmo genético do Solver/Evolutionary para definir os integrantes iniciais dos grupos de forma a minimizar a distância total entre todos os integrantes e seu vizinho mais próximo. Como as variáveis escolhidas para definir os grupos resultantes foram categóricas e numéricas, para as primeiras utilizou-se a distância de Hamming e para as demais (normalizadas) a distância euclidiana. A distância total entre os integrantes e seu vizinho mais próximo foi calculada pela soma destas duas distâncias. Procurou-se selecionar um grupo correspondente ao segmento de mercado com propensão a pagar preços mais altos;
- 
-  - Cálculo da curva de demanda em relação ao preço utilizando Regressão Linear aplicada ao grupo identificado acima;
-  
-  - Definição da função lucro decorrente da curva de demanda conjugada aos custos variáveis e fixos;
-  
-  - Aplicação de Simulação de Monte Carlo com Otimização para definição do preço ótimo que maximiza a média dos lucros esperados;
-  
-  - Expandir a abordagem da Simulação de Monte Carlo com Otimização para segmentação de preços, ou seja, cobrar preços diferentes para o mesmo produto, levemente modificado, de forma a capturar os menos e os mais sensíveis ao preço dentro do segmento.
-
-
 ### 3. Resultados
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
