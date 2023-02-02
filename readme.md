@@ -81,6 +81,7 @@ O software Excel e sua aplicação Solver mostraram-se suficientemente robustos 
 Como se vê na tabeia abaixo, a modelagem aqui proposta possibilitou armar o decisor com informações valiosas, auxiliando a escolha de opções de prativar preço de mercado, acionar um ou dois segmentos etc.
 
 
+![alt text](https://github.com/VictorAmaralNeto/TCC-BI-Master-Victor-Amaral/blob/main/Imagem2.jpg)
 
 
 
