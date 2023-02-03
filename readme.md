@@ -101,9 +101,7 @@ O cenário 9 replicou o cenário 6, mas mudou o objetivo da atimização para ma
 
 ### 4. Conclusões
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+Este trabalho procurou elucidar algumas das aplicações de otimização úteis para quem pretende lançar um novo produto. Mesmo restringindo o uso de ferramentas a apenas o Excel e mesmo com uma base de dados pequena, foi possível demonstrar o valor de algoritmos de otimização para o processo decisório do empreendedor. Sabe-se há tempo que práticas de segmentação de mercado e precificação correta são estratégicas a qualquer negócio e seu afastamento pode, na melhor das hipóteses, comprimir a lucratividade de produtos. A modelagem matemática de otimização aqui aplicada indicou poder auxiliar, e até mesmo viabilizar, o encontro destes parâmetros.
 
 ---
 
