@@ -32,7 +32,7 @@ A aplicação de modelos de otimização neste trabalho resultou em estabelecime
 
 ### 1. Introdução
 
-O empreendedorismo, além de seu reconhecido valor para a Economia, vem se tornando necessidade de muitos indivíduos que não conseguem oportunidades no mercado formal de trabalho Rocha (2014). Por outro lado, a taxa de insucesso dos novos negócios pode impactar materialmente todos os envolvidos (proprietário, empregdos, fornecedores entre outros) Neste contexto, utilizando pesquisa de mercado de novo e-book, procurou-se demonstrar como algoritmos de otimização conjugados com técnicas de decisão sob inceteza podem melhorar decisões complexas de mercado, tais como:
+O empreendedorismo, além de seu reconhecido valor para a Economia, vem se tornando necessidade de muitos indivíduos que não conseguem oportunidades no mercado formal de trabalho (Rocha, 2014). Por outro lado, a taxa de insucesso dos novos negócios pode impactar materialmente todos os envolvidos (proprietário, empregdos, fornecedores entre outros) Neste contexto, utilizando pesquisa de mercado de novo e-book, procurou-se demonstrar como algoritmos de otimização conjugados com técnicas de decisão sob inceteza podem melhorar decisões complexas de mercado, tais como:
 
   - Como identificar segmentos de mercado com dados estruturados?
   - Qual ou quais preços devem ser cobrados pelo produto de acordo com diferentes objetivos?
