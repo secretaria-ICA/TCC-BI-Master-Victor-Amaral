@@ -14,6 +14,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
 
+     - [EMPREENDEDORISMO SUSTENTÁVEL: CAUSAS DA MORTALIDADE DAS MICRO E PEQUENAS EMPRESAS NO MUNICÍPIO DE GUARAPUAVA-PR NO PERÍODO DE 2006 A 2010 - Sansana (2013)](https://riut.utfpr.edu.br/jspui/bitstream/1/692/1/PB_PPGDR_M_Sansana%2C%20Jos%C3%A9%20Carlos_2013.pdf)
     - [OPORTUNIDADE OU NECESSIDADE? UM ESTUDO DO IMPACTO DO EMPREENDEDORISMO NO DESENVOLVIMENTO ECONÔMICO - Rocha (2014)](https://periodicos.unichristus.edu.br/gestao/article/download/146/377)
     - [Análise de Agrupamentos com Uso do Excel - Oliveira (2015)](https://repositorio.ufmg.br/bitstream/1843/BUBD-A3QEUR/1/monografia_davidson_vers_o_final.pdf).
     - [The Impact of Price Segmentation based on Customer Characteristics, Product Bundle or Product Features on Price Fairness Perceptions - Nazari e Sheikholeslami-2021](https://jimm.journals.umz.ac.ir/article_3367_e408bef6742b349b39977526f3746607.pdf).
