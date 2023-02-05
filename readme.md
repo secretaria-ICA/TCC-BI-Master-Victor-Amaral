@@ -84,7 +84,7 @@ O software Excel e sua aplicação Solver mostraram-se suficientemente robustos 
 Como se vê na tabela abaixo, a modelagem aqui proposta possibilitou armar o decisor com informações valiosas, auxiliando-o com a escolha de quais preços praticar em que segmentos de mercado.
 
 
-![alt text](https://github.com/VictorAmaralNeto/TCC-BI-Master-Victor-Amaral/blob/main/Imagem4.jpg)
+![alt text](https://github.com/VictorAmaralNeto/TCC-BI-Master-Victor-Amaral/blob/main/Imagem1.jpg)
 
 O cenário 1 (doravante chamado cenário-base), por exemplo, apesar de ser prática recorrente entre iniciantes em negócios, ou seja, simplesmente atribuir o valor médio de e-books (neste caso R$ 50,00 por unidade) vendidos pela internet e divulgando indiscriminadamente para consumidores de perfis heterogêneos, mostrou-se a pior opção do experimento.
 
