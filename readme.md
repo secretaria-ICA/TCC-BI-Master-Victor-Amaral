@@ -42,9 +42,9 @@ O empreendedorismo, além de seu reconhecido valor para a Economia, vem se torna
 
 Portanto, esta abordagem procurou lançar luz em três perguntas principais:
 
-  - 1) A segmentação de mercado com decorrente possibilidade de cobrar preços diferentes para cada um dos segmentos potencializa a relação retorno/risco do produto (Porcheva, 2013)?
-  - 2) A prática de otimização de preços potencializa a relação retorno/risco do produto?
-  - 3) Em que medida a aplicação de otimização sob incerteza contribui para que decisões mais assertivas sejam tomadas?  
+  - A segmentação de mercado com decorrente possibilidade de cobrar preços diferentes para cada um dos segmentos potencializa a relação retorno/risco do produto (Porcheva, 2013)?
+  - A prática de otimização de preços potencializa a relação retorno/risco do produto?
+  - Em que medida a aplicação de otimização sob incerteza contribui para que decisões mais assertivas sejam tomadas?  
 
 Para alcançar estas intenções, lançou-se mão de matérias pertencentes às áreas de Microeconomia, Estatística, Machine Learning e Marketing. Elas foram aplicadas à mencionada pesquisa de mercado que além de testes de conceito e aceitação, mediu também m valor máximo que cada respondente estaria disposto a pagar, variável fundamental para buscar os objetivos deste trabalho.
 
