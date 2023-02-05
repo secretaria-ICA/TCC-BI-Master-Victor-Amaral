@@ -33,56 +33,56 @@ A aplicação de modelos de otimização neste trabalho resultou em estabelecime
 
 ### 1. Introdução
 
-O empreendedorismo, além de seu reconhecido valor para a Economia, vem se tornando necessidade de muitos indivíduos que não conseguem oportunidades no mercado formal de trabalho (Rocha, 2014). Por outro lado, a taxa de insucesso dos novos negócios pode impactar materialmente todos os envolvidos (proprietário, empregdos, fornecedores entre outros) Neste contexto, utilizando pesquisa de mercado de novo e-book, procurou-se demonstrar como algoritmos de otimização conjugados com técnicas de decisão sob inceteza podem melhorar decisões complexas de mercado, tais como:
+O empreendedorismo, além de seu reconhecido valor para a Economia, vem se tornando necessidade de muitos indivíduos que não conseguem oportunidades no mercado formal de trabalho (Rocha, 2014). Por outro lado, como observa Sansana (2013), a taxa de insucesso dos novos negócios pode impactar materialmente todos os envolvidos (proprietário, empregdos, fornecedores entre outros). Neste contexto, utilizando pesquisa de mercado de novo e-book sobre finanças quantitativas com 50 respondentes, procurou-se demonstrar como algoritmos de otimização conjugados com técnicas de decisão sob inceteza podem melhorar decisões complexas de mercado, tais como:
 
-  - Como identificar segmentos de mercado com dados estruturados?
+  - Identificar e escolher segmentos de mercado com dados estruturados?
   - Qual ou quais preços devem ser cobrados pelo produto de acordo com diferentes objetivos?
   - Qual ou quais segmentos de mercado devem ser acionados?
   - Qual é a lucratividade esperada do projeto?
   - Quais são os riscos de perda e qual é a probabilidade de que perdas ocorram?
 
-Portanto, esta abordagem procurou lançar luz, através de modelagem matemática, em tês perguntas principais:
+Portanto, esta abordagem procurou lançar luz em tês perguntas principais:
 
-  - 1) A segumentação de mercado com decorrente possibilidade de cobrar preços diferentes para cada um deles potencializa a relação retorno/risco do produto?
+  - 1) A segmentação de mercado com decorrente possibilidade de cobrar preços diferentes para cada um dos segmentos potencializa a relação retorno/risco do produto (Porcheva, 2013)?
   - 2) A prática de otimização de preços potencializa a relação retorno/risco do produto?
   - 3) Em que medida a aplicação de otimização sob incerteza contribui para que decisões mais assertivas sejam tomadas?  
 
-Para alcançar estas intenções, lançou-se mão de matérias pertencentes às áreas de Microeconomia, Estatística, Machine Learning e Marketing. Elas foram aplicadas a uma pesquisa de mercado feita com cinquenta respondentes em que se procurou medir a aceitação de um e-book sobre finanças quantitativas para investidores pessoas físicas e, mais importante, medir o valor máximo que cada um deles estaria disposto a pagar.
+Para alcançar estas intenções, lançou-se mão de matérias pertencentes às áreas de Microeconomia, Estatística, Machine Learning e Marketing. Elas foram aplicadas à mencionada pesquisa de mercado que além de testes de conceito e aceitação, mediu também m valor máximo que cada respondete estaria disposto a pagar, variável funcamentas para buscar os objetivos deste trabalho.
 
-Embora se reconheça a imprescindível necessidade de se contar com a sensibilidade do especialista, as técnicas quantitativas possibilitaram melhorar decisões, minimizando a chance de haver prejuízos ou, na melhor das hipóteses, de haver lucros sub ótimos em um projeto de lançamento de um novo produto.
+Embora se reconheça a imprescindível necessidade de se contar com a sensibilidade do especialista, as técnicas quantitativas aqui aplicadas, ressalvadas as restrições à segmentaçao de preço observadas por Nazari e Sheikholeslami (2021), possibilitaram melhorar decisões, minimizando a chance de haver prejuízos ou, na melhor das hipóteses, de haver lucros sub ótimos em um projeto de lançamento de um novo produto.
 
-Apesar das limitações desta abordagem (base reduzida, base desbalanceada e vieses de conveniência social), foi possível verificar o valor das modelagens matemáticas como complemento à experiência e à intuição humanas.
+Apesar das limitações desta abordagem (base reduzida, base desbalanceada e vieses de conveniência social), foi possível verificar o valor das modelagens matemáticas como complemento à experiência e à intuição humanas. As aplicões de análise de agrupamento para segmentação da base de dados de de otimização sob incerteza indicaram caminhos de escolha de segmentos e de precificação que diminuiram o risco potencial do lançamento do produto e aumentaram substancialmente a esperança matemática de sua lucratividade.
 
-Como tentativa de democratizar a aplicação da abordagem deste trabalho para pequenos empreendedores, toda a modelagem foi desenvolvida em Excel, tornando desnecessária qualquer programação em outras ferramentas, mas tão somente conhecimento avançado nesta software.
+Como tentativa de democratizar a aplicação da abordagem deste trabalho para pequenos empreendedores, toda a modelagem foi desenvolvida em Excel, tornando desnecessária qualquer programação em outras ferramentas, mas tão somente conhecimento avançado neste software.
 
 
 ### 2. Modelagem
 
-A modelagem do trabalho incluiu 3 abordagens: 1) segmentação da base de dados utilizando técnica de agrupamento, aplicando Excel/Solver/Evolutinary; 2) Cálculo das curvas de demanda da base completa e dos dois segmentos mais promissores e 3) aplicação de otimização com Simulação de Monte Carlo para definir preços ótimos e verbas de divulgação para atender aos objetivos de maximizar lucro ou minimizar riscos ou de encontrar relação ótima risco/retorno.
+A modelagem do trabalho incluiu 3 abordagens: 1) segmentação da base de dados utilizando técnica de agrupamento, aplicando Excel/Solver/Evolutinary; 2) Cálculo das curvas de demanda da base completa e dos dois segmentos mais promissores e 3) aplicação de otimização com Simulação de Monte Carlo para definir preços ótimos e alocação mais eficiente  da verba de divulgação para atender aos objetivos de maximizar lucro, minimizar riscos ou de encontrar relação ótima risco/retorno.
 
-Como mencionado, a modelagem foi integralmente feita em Excel. Seguiu as seguintes etapas:
+Etapas da modelagem:
 
   - Análise exploratória da base de dados (50 respostas da pesquisa);
   
-  - Discretização das variáveis e contínuas e codificação de todas as variáveis propiciando aplicar cálculo das distâncias de Hamming, capazes de lidar com dados categóricos, como base do método de agrupamento utilizando Excel/Solver;
+  - Discretização das variáveis e contínuas e codificação de todas as variáveis propiciando aplicar cálculo das distâncias de Hamming (capazes de lidar com dados categóricos), como base do método de agrupamento utilizando Excel/Solver;
 
-  - Agrupamento dos 50 respondentes em 5 grupos considerando semelhanças sociodemográfica e WTP, conforme abordagem de Oliveira (2015) ;
+  - Análise de Agrupamento sobre 50 respondentes para aolocá-los a 5 grupos considerando semelhanças sociodemográfica e WTP, conforme abordagem de Oliveira (2015) ;
   
-  - Identificação seleção de dois grupos mais promissores resultantes da etapa anterior;
+  - Identificação seleção de dois grupos mais promissores resultantes da etapa anterior. Buscou-se dois grupos homogêneos do ponto de vista sóciodemográfico com as maiores propensões a pagar médias (WTP);
   
-  - Cálculo das três curvas de demanda utilizando regressão linear simples: base completa e de cada um dos dois segmentos mais promissores;
+  - Cálculo das três curvas de demanda utilizando regressão linear simples: da base completa e de cada um dos dois segmentos mais promissores;
   
   -  Aplicação de otimização com Simulação de Monte Carlos com 1000 cenários para definição de preços e alocações e verba de divulgação ótimos para os objetivos de maximização de lucro, minimização de riscos ou maximização da relação retorno sobre risco (desvio padrão dos lucros esperados);
   -  
-  -  Elaboração de experimento com 9 possibilidades de decisão decorrentes de dois objetivos diferentes de otimização diferentes combinados com opções de acionar todos os consumidores, consumidores do segmento 1, consumidores do segmento 2 ou os ambos os segmentos com diferentes preços.
+  -  Elaboração de experimento com 9 possibilidades de decisão decorrentes de dois objetivos diferentes de otimização combinados com opções de acionar todos os consumidores, consumidores do segmento 1, consumidores do segmento 2 ou os ambos os segmentos com diferentes preços.
  
 ### 3. Resultados
 
-A aplicação da metodologia destre trablho evidenciou a utilidade da técnica de otimização sob incerteza para com o processo decisório de empreendedor, mais especificamente, na desafiadora tarefa de lançar um novo produto.
+A aplicação da metodologia destre trablho evidenciou a utilidade da técnica de otimização sob incerteza para com o processo decisório do empreendedor, mais especificamente, na desafiadora tarefa de lançar um produto.
 
 O software Excel e sua aplicação Solver mostraram-se suficientemente robustos para os objetivos de resolução de análise de agrupamentos e de otimização sob incerteza.
 
-Como se vê na tabeia abaixo, a modelagem aqui proposta possibilitou armar o decisor com informações valiosas, auxiliando-o com a escolha de opções como de praticar preço de mercado, acionar um ou dois segmentos etc.
+Como se vê na tabeia abaixo, a modelagem aqui proposta possibilitou armar o decisor com informações valiosas, auxiliando-o com a escolha de quais preços praticar em que segmentos de mercado.
 
 
 ![alt text](https://github.com/VictorAmaralNeto/TCC-BI-Master-Victor-Amaral/blob/main/Imagem4.jpg)
@@ -105,7 +105,7 @@ O cenário 9 replicou o cenário 6, mas mudou o objetivo da atimização para ma
 
 ### 4. Conclusões
 
-Este trabalho procurou verificar se aplicações de otimização sob incerteza poderiam ser úteis para quem pretendesse lançar um novo produto. Mesmo restringindo o uso de ferramentas a apenas o Excel, e mesmo com uma base de dados pequena e desbalanceada, foi possível demonstrar o valor de algoritmos de otimização para o processo decisório do empreendedor. Sabe-se há tempo que práticas de segmentação de mercado e precificação próximas à ótima são estratégicas importantes a qualquer negócio, e seu afastamento pode, na melhor das hipóteses, comprimir a lucratividade de produtos ou trazer riscos mais elevados. A modelagem matemática de otimização aqui aplicada indicou poder auxiliar, e até mesmo viabilizar, com a determinação de potenciais melhores segementos de mercado e dos melhores preços a serem aplicados a eles.
+Este trabalho procurou verificar se aplicações de otimização sob incerteza poderiam ser úteis para quem pretendesse lançar um produto. Mesmo restringindo o uso de ferramentas a apenas o Excel, e mesmo com uma base de dados pequena e desbalanceada, foi possível demonstrar o valor de algoritmos de otimização para o processo decisório do empreendedor. Sabe-se há tempo que práticas de segmentação de mercado e precificação próximas à ótima são estratégicas importantes a qualquer negócio, e seu afastamento pode, na melhor das hipóteses, comprimir a lucratividade de produtos ou trazer riscos mais elevados. A modelagem matemática de otimização aqui aplicada indicou poder auxiliar com a determinação de melhores segementos de mercado e dos melhores preços a serem aplicados a eles.
 
 ---
 
