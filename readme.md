@@ -46,7 +46,7 @@ Portanto, esta abordagem procurou lançar luz em três perguntas principais:
   - A prática de otimização de preços potencializa a relação retorno/risco do produto?
   - Em que medida a aplicação de otimização sob incerteza contribui para que decisões mais assertivas sejam tomadas?  
 
-Para alcançar estas intenções, lançou-se mão de matérias pertencentes às áreas de Microeconomia, Estatística, Machine Learning e Marketing. Elas foram aplicadas à mencionada pesquisa de mercado que além de testes de conceito e aceitação, mediu também m valor máximo que cada respondente estaria disposto a pagar, variável fundamental para buscar os objetivos deste trabalho.
+Para alcançar estas intenções, lançou-se mão de matérias pertencentes às áreas de Microeconomia, Estatística, Machine Learning e Marketing. Elas foram aplicadas à mencionada pesquisa de mercado que, além de testes de conceito e aceitação, mediu também o valor máximo que cada respondente estaria disposto a pagar, variável fundamental para buscar os objetivos deste trabalho.
 
 Embora se reconheça a imprescindível necessidade de se contar com a sensibilidade do especialista, as técnicas quantitativas aqui aplicadas, ressalvadas as restrições à segmentação de preço observadas por Nazari e Sheikholeslami (2021), possibilitaram melhorar decisões, minimizando a chance de haver prejuízos ou, na melhor das hipóteses, de haver lucros sub ótimos em um projeto de lançamento de um novo produto.
 
@@ -71,7 +71,7 @@ Etapas da modelagem:
   
   - Cálculo das três curvas de demanda utilizando regressão linear simples: da base completa e de cada um dos dois segmentos mais promissores;
   
-  -  Aplicação de otimização com Simulação de Monte Carlos com 1000 cenários para definição de preços e alocações e verba de divulgação ótimos para os objetivos de maximização de lucro, minimização de riscos ou maximização da relação retorno sobre risco (desvio padrão dos lucros esperados);
+  -  Aplicação de otimização com Simulação de Monte Carlo com 1000 cenários para definição de preços e alocações e verba de divulgação ótimos para os objetivos de maximização de lucro, minimização de riscos ou maximização da relação retorno sobre risco (desvio padrão dos lucros esperados);
   
   -  Elaboração de experimento com 9 possibilidades de decisão decorrentes de dois objetivos diferentes de otimização combinados com opções de acionar todos os consumidores, consumidores do segmento 1, consumidores do segmento 2 ou os ambos os segmentos com diferentes preços.
  
@@ -104,7 +104,7 @@ O cenário 9 replicou o cenário 6, mas mudou o objetivo da otimização para ma
 
 ### 4. Conclusões
 
-Este trabalho procurou verificar se aplicações de otimização sob incerteza poderiam ser úteis para quem pretendesse lançar um produto. Mesmo restringindo o uso de ferramentas a apenas o Excel, e mesmo com uma base de dados pequena e desbalanceada, foi possível demonstrar o valor de algoritmos de otimização para o processo decisório do empreendedor. Sabe-se há tempo que práticas de segmentação de mercado e precificação próximas à ótima são estratégicas importantes a qualquer negócio, e seu afastamento pode, na melhor das hipóteses, comprimir a lucratividade de produtos ou trazer riscos mais elevados. A modelagem matemática de otimização aqui aplicada indicou poder auxiliar com a determinação de melhores segmentos de mercado e dos melhores preços a serem aplicados a eles.
+Este trabalho procurou verificar se aplicações de otimização sob incerteza poderiam ser úteis para quem pretendesse lançar um produto. Mesmo restringindo o uso de ferramentas a apenas o Excel, e mesmo com uma base de dados pequena e desbalanceada, foi possível demonstrar o valor de algoritmos de otimização para o processo decisório do empreendedor. Sabe-se há tempo que práticas de segmentação de mercado e precificação próxima à ótima são estratégicas importantes a qualquer negócio, e seu afastamento pode, na melhor das hipóteses, comprimir a lucratividade de produtos ou trazer riscos mais elevados. A modelagem matemática de otimização aqui aplicada indicou poder auxiliar com a determinação de melhores segmentos de mercado e dos melhores preços a serem aplicados a eles.
 
 ---
 
