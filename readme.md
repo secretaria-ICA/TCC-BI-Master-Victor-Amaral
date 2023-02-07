@@ -72,7 +72,7 @@ Etapas da modelagem:
   - Cálculo das três curvas de demanda utilizando regressão linear simples: da base completa e de cada um dos dois segmentos mais promissores;
   
   -  Aplicação de otimização com Simulação de Monte Carlos com 1000 cenários para definição de preços e alocações e verba de divulgação ótimos para os objetivos de maximização de lucro, minimização de riscos ou maximização da relação retorno sobre risco (desvio padrão dos lucros esperados);
-  -  
+  
   -  Elaboração de experimento com 9 possibilidades de decisão decorrentes de dois objetivos diferentes de otimização combinados com opções de acionar todos os consumidores, consumidores do segmento 1, consumidores do segmento 2 ou os ambos os segmentos com diferentes preços.
  
 ### 3. Resultados
