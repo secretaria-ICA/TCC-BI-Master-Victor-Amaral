@@ -2,8 +2,8 @@
 # Aplicações de Otimização sob Incerteza para Lançamento de Produtos
 
 #### Aluno: [Victor Soledade Moraes Amaral Neto](https://github.com/link_do_github)
-#### Orientador: [Ana Carolina Abreu](https://github.com/link_do_github).
-#### Co-orientador: [Felipe Borges](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
+#### Orientador: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
+#### Co-orientador: [Felipe Borges](https://github.com/FelipeBorgesC). <!-- caso não aplicável, remover esta linha -->
 
 ---
 
