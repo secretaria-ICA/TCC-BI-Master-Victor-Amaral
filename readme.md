@@ -1,5 +1,5 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
-# Aplicações de Otimização sob Incerteza para Lançamento de Produtos
+# Aplicacoes_de_Otimizacao_sob_Incerteza_para_Lancamento_de_Produtos
 
 #### Aluno: [Victor Soledade Moraes Amaral Neto](https://github.com/link_do_github)
 #### Orientador: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
